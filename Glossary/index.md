@@ -1,11 +1,11 @@
 # Glossary
 
-### [Science](/Glossary/Science.md)
+### [Science](/Glossary/Science/)
 
-### [Truth](/Glossary/Truth.md)
+### [Truth](/Glossary/Truth/)
 
-### [Love](/Glossary/Love.md)
+### [Love](/Glossary/Love/)
 
-### [Philosophy](/Glossary/Philosophy.md)
+### [Philosophy](/Glossary/Philosophy/)
 
-### [Religion](/Glossary/Religion.md)
+### [Religion](/Glossary/Religion/)
