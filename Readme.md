@@ -3,4 +3,5 @@
 ## Table of Contents
 
 [Introduction](/introduction.md)
+
 [Glossary](/glossary/index.md)
