@@ -4,6 +4,6 @@ This is a community for the study and advancement of the Domhan Dubh philosophy.
 
 ## Table of Contents
 
-[Introduction](/introduction.md)
+[Introduction](/Introduction.md)
 
 [Glossary](/glossary/index.md)
