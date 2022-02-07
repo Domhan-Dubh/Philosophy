@@ -4,6 +4,6 @@ Browse our content here: https://domhan-dubh.github.io/Philosophy/
 
 ## Table of Contents
 
-[Introduction](/Introduction.md)
+[Introduction](Introduction.md)
 
-[Glossary](/glossary/index.md)
+[Glossary](Glossary/index.md)
