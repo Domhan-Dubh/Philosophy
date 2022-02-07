@@ -1,15 +1,15 @@
-# Glossary
+**Glossary**
 
-### [Science](Science)
+[Science](Science)
 
-### [Truth](Truth)
+[Truth](Truth)
 
-### [Love](Love)
+[Love](Love)
 
-### [Philosophy](Philosophy)
+[Philosophy](Philosophy)
 
-### [Religion](Religion)
+[Religion](Religion)
 
-### [Unity](Unity)
+[Unity](Unity)
 
-### [Infinity](Infinity)
+[Infinity](Infinity)
