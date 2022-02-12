@@ -1,5 +1,9 @@
 **Glossary**
 
+[Belief](Belief)
+
+[Change](Change)
+
 [Everything](Everything)
 
 [Form](Form)
@@ -24,6 +28,8 @@
 
 [Something](Something)
 
+[Theory](Theory)
+
 [Time](Time)
 
 [Truth](Truth)
@@ -31,7 +37,3 @@
 [Unity](Unity)
 
 [Universe](Universe)
-
-[Change](Change)
-
-[Belief](Belief)
