@@ -4,6 +4,6 @@ Browse our content here: https://domhan-dubh.github.io/Philosophy/
 
 ## Table of Contents
 
-[Introduction](Introduction.md)
-
 [Glossary](Glossary/index.md)
+
+[Epistemology](Epistemology/index.md)
