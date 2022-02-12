@@ -1,3 +1,5 @@
+[Philosophy](./)
+
 **Glossary**
 
 [Belief](Belief)
