@@ -14,6 +14,8 @@
 
 [Infinity](Infinity)
 
+[Knowledge](Knowledge)
+
 [Love](Love)
 
 [Philosophy](Philosophy)
