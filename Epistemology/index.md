@@ -2,7 +2,7 @@
 
 **Epistemology**
 
-How do we know what we claim to know?
+Epistemology is the study of [Knowledge](../Glossary/Knowledge). To practice Epistemology, simply ask yourself "How do we know what we claim to know?"
 
 The recent advancements in Machine Learning (ML) can teach us a good lesson about Episemology. ML systems are able to "know" things about us, for instance. A classic and surprising example was an ML system for a big chain store that starting sending a young teen-aged girl advertisments for pregnancy products in the mail. When her father saw this he drove to the store and yelled at the manager for trying to push pregnancy on his young teen. He later drove back to the store to appologize because it turns out his daughter told him she was actually pregnant. The ML system "knew" that she was pregnant even before her father. 
 
