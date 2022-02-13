@@ -1,3 +1,5 @@
+[Philosophy](../)
+
 **Quotes**
 
 > Love brought us from the world of unity to that of variety, and the same force can take us back again to the world of unity from the world of variety.
