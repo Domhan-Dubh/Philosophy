@@ -7,3 +7,5 @@ Browse our content here: https://domhan-dubh.github.io/Philosophy/
 [Glossary](Glossary/index.md)
 
 [Epistemology](Epistemology/index.md)
+
+[Quotes](Quotes/index.md)
