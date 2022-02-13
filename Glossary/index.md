@@ -16,6 +16,8 @@
 
 [Knowledge](Knowledge)
 
+[Life](Life)
+
 [Love](Love)
 
 [Philosophy](Philosophy)
