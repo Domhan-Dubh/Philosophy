@@ -3,3 +3,5 @@
 [Glossary](Glossary)
 
 [Epistemology](Epistemology)
+
+[Quotes](Quotes)
