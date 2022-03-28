@@ -20,11 +20,15 @@
 
 [Love](Love)
 
+[Mind](Mind)
+
 [Philosophy](Philosophy)
 
 [Quality](Quality)
 
 [Quantity](Quantity)
+
+[Reality](Reality)
 
 [Religion](Religion)
 
